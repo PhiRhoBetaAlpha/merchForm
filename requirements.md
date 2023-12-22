@@ -25,3 +25,11 @@ back end:
 - calculates quantity of each size of each shirt design (like 3 mediums, 4 larges, etc)
   - also.. if possible, have a name attached to each size..? idk
 - all of these calculations stored on a single sheet
+
+
+DJANGO SITE
+
+* merchForm - the bigger project name
+* shop - intended for the page that has all of the merch items. if possible please make the items dynamic and not dirrectly written into the page.
+  * hopefully will be intergrated into a "Cart" page
+  *
