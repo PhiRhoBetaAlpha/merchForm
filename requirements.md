@@ -5,7 +5,7 @@ general notes:
 front end:
 
 - primarily html and django
-- *will probably have to be a [form](https://docs.djangoproject.com/en/5.0/topics/forms/)*
+- *will probably have to be a [model form](https://docs.djangoproject.com/en/5.0/topics/forms/modelforms/)*
 - listing of all the merch on the front page with a photo of the front and back
   - include tax (10%)
   - include greekbill charge (4%)
