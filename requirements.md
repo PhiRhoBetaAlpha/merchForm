@@ -5,6 +5,7 @@ general notes:
 front end:
 
 - primarily html and django
+- *will probably have to be a form*
 - listing of all the merch on the front page with a photo of the front and back
   - include tax (10%)
   - include greekbill charge (4%)
@@ -25,7 +26,6 @@ back end:
 - calculates quantity of each size of each shirt design (like 3 mediums, 4 larges, etc)
   - also.. if possible, have a name attached to each size..? idk
 - all of these calculations stored on a single sheet
-
 
 DJANGO SITE
 
