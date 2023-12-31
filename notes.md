@@ -13,3 +13,4 @@ Models SQL
   * don't forget to makemigrations and migrate
 * manytomany:
   * print([a.name for a in tags.all()])
+* Managing static files in Django: https://docs.djangoproject.com/en/5.0/howto/static-files/
